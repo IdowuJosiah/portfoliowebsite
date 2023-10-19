@@ -117,10 +117,10 @@ body{
     -webkit-text-stroke-color: #404040 ;
 }
 .banner-text li:hover{
-    font-size: 35px;
     font-weight: bolder;
     transition: ease-in-out .5s;
     cursor: pointer;
+    color: #404040;
 }
 .banner-box{
     background: #f5f5f5;
@@ -317,9 +317,9 @@ ABout page style
         font-size: 10px;
     }
     .contact-button button{
-        width: 6rem;
-        height:30px ;
-        font-size: 10px;
+        width: 4.5rem;
+        height:25px ;
+        font-size: 8px;
         border-radius: 15px;
     }
     .profile-image{
@@ -335,7 +335,7 @@ ABout page style
     .banner-box{
         width :12rem;
         height: 13rem;
-
+        right: -40%;
         padding: .5rem;
     }
     .myname{
@@ -356,7 +356,7 @@ ABout page style
         font-size: 7px;
     }
     .banner-text li{
-        font-size: 18px;
+        font-size: 12px;
     }
     .banner-text li:hover{
         font-size: 20px;
